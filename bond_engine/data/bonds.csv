@@ -1,0 +1,6 @@
+bond_id,issuer,coupon,maturity_date,face_value,sector,rating
+BOND1,Acme Corp,0.05,2030-06-15,1000,Corporate,BBB
+BOND2,Acme Corp,0.04,2028-12-01,1000,Corporate,A
+BOND3,Beta Inc,0.06,2031-03-20,1000,Financial,BB
+BOND4,Gamma LLC,0.03,2027-01-10,1000,Government,AA
+BOND5,Delta Co,0.07,2032-08-05,1000,Corporate,BBB
